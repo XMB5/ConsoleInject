@@ -8,3 +8,6 @@ Adds a javascript console to any page using a bookmarklet. Useful for school whe
 
 ## Credits
 [jsconsole](https://github.com/remy/jsconsole) by remi
+
+# EDIT:
+Just use firebug lite 1.4 instead
